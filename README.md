@@ -6,7 +6,7 @@ This repository contains software and resources for the [Flick range](https://pi
 Just run the following script in a terminal window and Flick will be automatically setup.
 ```bash
 # Run this line and Flick will be setup and installed
-curl -sSL https://pisupp.ly/flickcode | sudo bash
+curl -sSL https://raw.githubusercontent.com/Luciano2018/Flick/master/install.sh | sudo bash
 ```
 #Raspberry Pi Buenos Aires updated to Python 3 Flick Scripts
 ```
