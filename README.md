@@ -52,6 +52,9 @@ flick-2048
 
 # Gesture demo (Requires Raspberry Pi Sense HAT)
 flick-sense
+
+#Another not added in the original Readme
+flick-screenly-ose
 ```
 
 # Hardware tips
