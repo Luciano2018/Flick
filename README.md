@@ -1,5 +1,5 @@
 ![Alt text](https://user-images.githubusercontent.com/1878314/73880628-afad9f00-4856-11ea-975a-ec95b6ffacbe.png)
-# Flick
+# Flick Updated to Raspberry Pi OS Bullseye 32bit
 This repository contains software and resources for the [Flick range](https://pisupp.ly/flick1) of gesture sensing and 3D tracking add on boards (and cases) for the Raspberry Pi and standalone applications (and soon BeagleBone, Arduino and more!). Brought to you by [Pi Supply](https://www.pi-supply.com)
 
 # Setup Flick
@@ -8,6 +8,7 @@ Just run the following script in a terminal window and Flick will be automatical
 # Run this line and Flick will be setup and installed
 curl -sSL https://pisupp.ly/flickcode | sudo bash
 ```
+#Raspberry Pi Buenos Aires updated to Python 3 Flick Scripts
 
 # Python API (Coming soon)
 
