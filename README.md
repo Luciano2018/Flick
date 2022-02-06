@@ -10,6 +10,26 @@ curl -sSL https://pisupp.ly/flickcode | sudo bash
 ```
 #Raspberry Pi Buenos Aires updated to Python 3 Flick Scripts
 
+flick-2048(Syntax error):
+Line 205 changed to print (direction)
+
+flick-armcontrol(Ident error):
+Line 50 and 51 to:
+if delta > 0:
+    arm.moveBase(1)
+    time.sleep(0.5)
+arm.reset()
+
+flick-sense(Syntax errors):
+Line 272 changed to print('xyz: ' + xyztxt)
+Line 276 changed to print('Flick: ' + flicktxt)
+Line 280 changed to print('Airwheel: ' + airwheeltxt)
+Line 287 changed to print('Touch: ' + touchtxt)
+Line 291 changed to print('Tap: ' + taptxt)
+Line 295 changed to print('Double Tap: ' + doubletaptxt)
+
+The others no need update
+
 # Python API (Coming soon)
 
 # Command Line
