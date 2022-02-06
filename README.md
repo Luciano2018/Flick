@@ -9,7 +9,7 @@ Just run the following script in a terminal window and Flick will be automatical
 curl -sSL https://pisupp.ly/flickcode | sudo bash
 ```
 #Raspberry Pi Buenos Aires updated to Python 3 Flick Scripts
-
+```
 flick-2048(Syntax error):
 Line 205 changed to print (direction)
 
@@ -29,6 +29,7 @@ Line 291 changed to print('Tap: ' + taptxt)
 Line 295 changed to print('Double Tap: ' + doubletaptxt)
 
 The others no need update
+```
 
 # Python API (Coming soon)
 
